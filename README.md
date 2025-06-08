@@ -1,1 +1,1 @@
-﻿# Local de imagens para o e-commerce tcm Etec Basilides de Godoy 
+﻿# Local de imagens para o e-commerce do TCC Etec Basilides de Godoy 
